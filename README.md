@@ -23,7 +23,7 @@ A project is **CAP Compliant** if, and only if, it passes the technical audit de
 ### Documentation Index
 
 * **`STANDARDS.md`:** Language-agnostic rules for nomenclature and structural hierarchy.
-* * **`ARCHITECTURE.md`**: Design rules and relationship between components.
+* **`ARCHITECTURE.md`**: Design rules and relationship between components.
 * **`TEMPLATES/`:** Standardized boilerplate implementations for supported stacks (Deno, Rust, Go, etc.).
 * **`VALIDATION.md`:** Technical criteria for CAP audit and compliance validation.
 
